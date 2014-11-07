@@ -1,0 +1,17 @@
+dbg_msg 0
+cfg_seed 4340
+input_seed 123456
+max_cycles 10000
+
+density_reset 0.002
+density_read 0.8
+density_write 0.7
+density_search 0.6
+
+index_mask_read 0x10
+index_mask_write 0x10
+
+data_mask_write 0x11111111
+data_mask_search 0x11111111
+
+auto_configure 0
